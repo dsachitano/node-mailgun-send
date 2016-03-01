@@ -4,7 +4,7 @@
   "description": "Send mail via mailgun",
   "main": "index.js",
   "dependencies": {
-    "mailgun": "https://github.com/dsachitano/node-mailgun.git#52e5025"
+    "mailgun": "dsachitano/node-mailgun#52e5025"
   },
   "devDependencies": {
     "mocha": "~1.19.0",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dsachitano/node-mailgun-send.git"
+    "url": "https://github.com/markhuge/node-mailgun-send.git"
   },
   "keywords": [
     "mailgun",
@@ -35,5 +35,5 @@
   "bugs": {
     "url": "https://github.com/markhuge/node-mailgun-send/issues"
   },
-  "homepage": "https://github.com/dsachitano/node-mailgun-send"
+  "homepage": "https://github.com/markhuge/node-mailgun-send"
 }
